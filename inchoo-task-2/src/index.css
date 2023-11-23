@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.bg-header {
+    background-color: #2F2F2F;
+}
+.text-xxs {
+    font-size: 10px;
+}
