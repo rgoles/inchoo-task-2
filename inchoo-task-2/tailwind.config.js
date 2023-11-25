@@ -9,8 +9,8 @@ export default {
         listStyleType: {
             none: 'none',
             disc: 'disc',
-            decimal: 'decimal',
             square: 'square',
+            decimal: 'decimal',
             roman: 'upper-roman',
         },
 
